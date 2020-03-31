@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.logo{
+	background-color: violet;
+	height: 100px;
+	width: 25%;
+	float: left;
+}
+
+.banner{
+	background-color: violet;
+	height: 100px;
+	width: 72%;
+	float: right;
+}
+
+
+.header_bar{
+	background-color: violet;
+	height: 100px;
+	margin-bottom: 30px;
+}
+
+.content{
+	overflow: hidden;
+}
+
+.left{
+	background-color: violet;
+	height: 400px;
+	width: 20%;
+	float: left;
+	margin-right: 30px;
+}
+
+.middle{
+	width: 55%;
+	float: left;
+}
+
+.top{
+	background-color: violet;
+	height: 70px;
+	margin-bottom: 30px;
+}
+
+.center{
+	overflow: hidden;
+}
+
+.left_center{
+	background-color: violet;
+	height: 200px;
+	width: 48%;
+	float: left;
+}
+
+.right_center{
+	background-color: violet;
+	height: 200px;
+	width: 48%;
+	float: right;
+}
+
+.bottom{
+	margin-top: 30px;
+	background-color: violet;
+	height: 70px;
+}
+
+.right{
+	background-color: violet;
+	height: 400px;
+	width: 20%;
+	float: right;
+	margin-left: 30px;
+}
+
+footer{
+	margin-top: 30px;
+	background-color: violet;
+	height: 100px;
+}
